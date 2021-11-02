@@ -1,9 +1,9 @@
-.TH MSH 1 "2 November 2021" "manual page for Simple Shell"
+.TH hSH  "2 November 2021" "manual page for Simple Shell"
 .SH NAME
 .B simple_shell
 - Simple Shell for ALX
 .SH SYNOPSIS
-.B ./msh
+.B ./hsh
 [command] [options]
 .SH DESCRIPTION
 Simple Shell is one of the projects for ALX  where we explore and build a functional simple shell program.
@@ -36,7 +36,7 @@ The return value of a simple command is its exit status
 .SH Example
 .PP
 
-$./msh
+$./hsh
 
 $
 
